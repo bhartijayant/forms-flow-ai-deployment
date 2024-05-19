@@ -1,7 +1,7 @@
 {
   "name": "formio",
   "version": "3.2.0",
-  "description": "The formio server application.",
+  "description": "Freedom of Information and Protection of Privacy.",
   "license": "OSL-3.0",
   "main": "index.js",
   "scripts": {
@@ -80,7 +80,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formio/formio.git"
+    "url": "https://github.com/bhartijayant/forms-flow-ai-deployment.git"
   },
   "keywords": [
     "Form.io",
