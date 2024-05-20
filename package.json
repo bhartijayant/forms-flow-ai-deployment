@@ -1,7 +1,7 @@
 {
   "name": "formio",
   "version": "3.2.0",
-  "description": "Freedom of Information and Protection of Privacy.",
+  "description": "Freedom of Information and Protection of Privacy",
   "license": "OSL-3.0",
   "main": "index.js",
   "scripts": {
